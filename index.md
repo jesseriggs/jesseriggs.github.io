@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Better CoVid Tracker Pages
 
 You can use the [editor on GitHub](https://github.com/jesseriggs/jesseriggs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
