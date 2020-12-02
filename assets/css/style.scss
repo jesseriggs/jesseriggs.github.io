@@ -1,6 +1,7 @@
 ---
 ---
-@import "";
+
+@import "{{ site.theme }}";
 body{
   background-color: #021114;
   background-image: url("corona720.png");
