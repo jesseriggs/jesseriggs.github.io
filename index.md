@@ -1,8 +1,7 @@
 ## Welcome to Better CoVid Tracker Pages
 
-Better CoVid Tracker is a project designed to deliver helpful data concerning the pandemic.
+Better CoVid Tracker is a project designed to deliver accurate and unbiased data concerning the pandemic.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
