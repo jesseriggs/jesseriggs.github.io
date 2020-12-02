@@ -1,6 +1,6 @@
 ## Welcome to Better CoVid Tracker Pages
 
-You can use the [editor on GitHub](https://github.com/jesseriggs/jesseriggs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Better CoVid Tracker is a project designed to deliver helpful data concerning the pandemic.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
